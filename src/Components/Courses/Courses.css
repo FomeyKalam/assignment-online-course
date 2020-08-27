@@ -1,0 +1,18 @@
+.course{
+    border-right: 5px solid rgb(97, 106, 126);
+    margin: 0 10px;
+}
+.courseImg{
+    display: flex;
+}
+.courseName{
+    margin-left: 10px;
+}
+.btn{
+    border: 1px solid rgb(55, 207, 50);
+    background-color:rgb(121, 243, 121);
+    font-size:20px;
+    font-weight:bold;
+    color:rgb(0, 30, 128);
+    
+}
